@@ -2,3 +2,30 @@ body{
     font-family: 'Lobster', cursive; 
 
 }
+h1{
+    font-size: 70px;
+}
+.spider-color{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+width: 50%;
+padding-left: 10%%; 
+
+}
+.half-width img{
+width: 100%;
+height: 50%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(brown, red);
+    padding: 10px 45px;  
+    border-radius: 40px; 
+    color: white;
+    font-width: 700px;
+}
